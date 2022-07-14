@@ -1,4 +1,4 @@
-package com.todo.blog;
+package com.todo.blog.board.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
